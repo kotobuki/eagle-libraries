@@ -102,7 +102,6 @@
 <wire x1="7.62" y1="5.08" x2="-7.62" y2="5.08" width="0.127" layer="51"/>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-7.3025" width="0.127" layer="51"/>
 <circle x="-6.0325" y="-5.715" radius="0.635" width="0.127" layer="51"/>
-<rectangle x1="-4.445" y1="-4.7625" x2="1.27" y2="0.9525" layer="41"/>
 </package>
 <package name="BACK-FACE">
 <description>Back Face Top</description>
@@ -173,7 +172,6 @@
 <wire x1="7.62" y1="5.08" x2="-7.62" y2="5.08" width="0.127" layer="51"/>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-7.3025" width="0.127" layer="51"/>
 <circle x="-6.0325" y="-5.715" radius="0.635" width="0.127" layer="51"/>
-<rectangle x1="-4.445" y1="-4.7625" x2="1.27" y2="0.9525" layer="41"/>
 <wire x1="-9" y1="-8" x2="9" y2="-8" width="0.2032" layer="21"/>
 </package>
 </packages>
